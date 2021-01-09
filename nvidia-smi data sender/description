@@ -1,0 +1,2 @@
+The script collects data about GPU utilization, GPU memory, CPU utilization and memory and saves it to a file in json format.
+GPU data is extracted using the nvidia-smi command. The data is collected on a 5s interval.
